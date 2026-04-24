@@ -22,7 +22,7 @@ Este repositorio contiene la propuesta y planificación inicial. Las siguientes 
 ## 👥 Integrantes
 - Alexis Cosme Romero  
 - Miguel Silva Mejía  
-- Moisés [apellido]
+- Moisés Olivares Leandro
 
 ## 📅 Curso
 Comunicaciones Móviles – Universidad Nacional Mayor de San Marcos
