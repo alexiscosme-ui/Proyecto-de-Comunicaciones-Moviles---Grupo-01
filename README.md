@@ -23,6 +23,7 @@ Este repositorio contiene la propuesta y planificación inicial. Las siguientes 
 - Alexis Cosme Romero  
 - Miguel Silva Mejía  
 - Moisés Olivares Leandro
+- Tito Daga Alex Javier	
 
 ## 📅 Curso
 Comunicaciones Móviles – Universidad Nacional Mayor de San Marcos
