@@ -52,7 +52,7 @@ La red está configurada para operar con los siguientes parámetros de radiofrec
 
 ## 👥 Autor
 
-* **Alexis Cosme Romero** 
+* **Alexis Jefferson Daniel Cosme Romero** 
 
 ---
 *Facultad de Ingeniería Electrónica y Eléctrica - Escuela Profesional de Ingeniería de Telecomunicaciones | UNMSM - Julio 2026*
