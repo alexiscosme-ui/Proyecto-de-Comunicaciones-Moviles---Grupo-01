@@ -50,12 +50,9 @@ La red está configurada para operar con los siguientes parámetros de radiofrec
 * **Estabilidad del Plano de Datos:** Conectividad IP extremo a extremo verificada (0% de pérdida de paquetes) con una latencia mínima de 19.8 ms.
 * **Telemetría E2E:** Recepción exitosa y continua de datos MQTT en el dashboard de Grafana con tasas de actualización de 5 segundos a través del enlace de radiofrecuencia privado.
 
-## 👥 Autores
+## 👥 Autor
 
 * **Alexis Cosme Romero** 
-* **Victor Silva Mejia** 
-* **Moises Olivares Leandro** 
-* **Alex Tito Daga** 
 
 ---
 *Facultad de Ingeniería Electrónica y Eléctrica - Escuela Profesional de Ingeniería de Telecomunicaciones | UNMSM - Julio 2026*
